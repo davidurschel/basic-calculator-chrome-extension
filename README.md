@@ -5,6 +5,6 @@ A simple calculator extension that works on any chromium based web browser allow
 
 This project gave me experience with the procedure of creating an extension for google chrome and getting it published on the chrome web store.
 
-Add it directly from the chrome web store and try it right now: https://chrome.google.com/webstore/detail/basic-calculator/cahgbmoohheneohjejjaladliemlmbfg/related?hl=en-GB&authuser=0
+Add it directly from the chrome web store and try it right now: https://chrome.google.com/webstore/detail/basic-calculator/cahgbmoohheneohjejjaladliemlmbfg/
 
 Feel free to leave a 5 star review
